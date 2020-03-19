@@ -10,7 +10,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  test:
     name: Running Unit Test 
     runs-on: ubuntu-latest
 
